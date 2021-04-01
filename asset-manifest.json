@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mykinderpass-Assignment/static/css/main.b8a2981e.chunk.css",
-    "main.js": "/mykinderpass-Assignment/static/js/main.66a9038a.chunk.js",
-    "main.js.map": "/mykinderpass-Assignment/static/js/main.66a9038a.chunk.js.map",
+    "main.js": "/mykinderpass-Assignment/static/js/main.741f9dfa.chunk.js",
+    "main.js.map": "/mykinderpass-Assignment/static/js/main.741f9dfa.chunk.js.map",
     "runtime-main.js": "/mykinderpass-Assignment/static/js/runtime-main.77b9dc53.js",
     "runtime-main.js.map": "/mykinderpass-Assignment/static/js/runtime-main.77b9dc53.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/mykinderpass-Assignment/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.21fc6193.chunk.js",
     "static/css/main.b8a2981e.chunk.css",
-    "static/js/main.66a9038a.chunk.js"
+    "static/js/main.741f9dfa.chunk.js"
   ]
 }
