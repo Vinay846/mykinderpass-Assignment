@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#card-body {
+    list-style: none;
+    flex: -1 0 33.333333%;
+    margin: 5px;
+}
+
+.no-result{
+    font-size: x-large;
+    font-weight: bold;
+    width: fit-content;
+    margin: auto;
+}
+
+.heading{
+    font-size: x-large;
+    font-weight: bold;
+    width: fit-content;
+    margin: auto;
+    cursor: pointer;
+}
+
+.filter{
+    margin: 1rem;
+}
