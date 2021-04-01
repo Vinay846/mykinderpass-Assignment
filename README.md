@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project [Live Demo](https://vinay846.github.io/mykinderpass-Assignment/).
 
 ## Available Scripts
 
